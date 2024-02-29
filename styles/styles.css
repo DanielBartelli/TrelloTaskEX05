@@ -43,3 +43,12 @@ main {
     color: white;
     border-radius: 25px;
 }
+
+#dan {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 100%;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
